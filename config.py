@@ -15,3 +15,18 @@ DEPORTES = [
 ]
 
 INTERVALO = 120
+
+CASAS_PERMITIDAS = [
+    "Bet365",
+    "Wplay",
+    "Rushbet",
+    "Betplay",
+    "Stake",
+    "Codere",
+    "Betcris",
+    "1xBet",
+    "William Hill",
+    "Bwin",
+    "Betway",
+    "888sport",
+]
